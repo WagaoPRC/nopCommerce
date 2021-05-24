@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'prcshop'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8f95f85c9b9d4765b40ec227e616f8fe }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_65eaf658d532446781dd1ea0d6cb3027 }}
         package: .
